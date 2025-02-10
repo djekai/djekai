@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+some projects:
+https://github.com/djekai/qa_pw_wizard_bank_pom
+https://github.com/djekai/js_task-transportation-on-vacation
+https://github.com/djekai/deno-drash-realworld-example-app
 <!--
 **djekai/djekai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
